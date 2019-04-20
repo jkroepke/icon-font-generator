@@ -1,5 +1,13 @@
 ![Icon](https://camo.githubusercontent.com/2b418776b6cc9cb7d90c68905d3381674f13d7ec/687474703a2f2f692e6375626575706c6f61642e636f6d2f4541367957612e706e67)
 
+# Fork of [icon-font-generator](https://www.npmjs.com/package/icon-font-generator)
+
+PR included here:
+
+* https://github.com/Workshape/icon-font-generator/pull/61
+
+> https://www.npmjs.com/package/icon-font-generator
+
 ## Icon font generator
 
 ![Screenshot](https://camo.githubusercontent.com/7aaef96033be671fa29297c0efd6c50f97a502f6/68747470733a2f2f692e6375626575706c6f61642e636f6d2f65597736766a2e706e67)
@@ -63,6 +71,7 @@ Options:
   --mono           Make font monospace (Default: false)
   --height         Fixed font height value
   --center         Center font horizontally
+  --timestamp      Override font creation time (Unix time stamp)
 ```
 
 
