@@ -30,7 +30,7 @@ It also does a couple extra things such as creating a .json file containing the 
 ### Install
 
 ```
-npm install -g icon-font-generator
+npm install -g @jkroepke/icon-font-generator
 ```
 
 ### Use
