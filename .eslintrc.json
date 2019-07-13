@@ -14,7 +14,6 @@
     "no-unexpected-multiline" : [ "error" ],
     "semi"                    : [ "error", "never" ],
     "one-var"                 : [ "error", "never" ],
-    "padded-blocks"           : [ "error", "never" ],
     "no-console"              : 0,
     "padded-blocks"           : 0,
     "no-trailing-spaces"      : [ "error", { "skipBlankLines": false } ]
