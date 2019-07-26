@@ -14,13 +14,13 @@
   "author": "Tancredi Trugenberger",
   "license": "MIT",
   "dependencies": {
+    "@vusion/webfonts-generator": "^0.6.0",
     "colors": "^1.2.1",
     "glob": "^7.1.4",
-    "minimist": "^1.2.0",
-    "@vusion/webfonts-generator": "^0.5.5"
+    "minimist": "^1.2.0"
   },
   "devDependencies": {
-    "eslint": "^5.0.0",
+    "eslint": "^5.1.6",
     "eslint-config-recommended": "^4.0.0"
   },
   "engines": {
